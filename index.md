@@ -1,6 +1,6 @@
 # Lock Files — Privacy Policy
 
-**Last updated: 3 November 2026**
+**Last updated: 10 November 2026**
 
 ## The short version
 
@@ -13,14 +13,14 @@ design.
 ## What we collect
 
 **Nothing.** There is no analytics code in this app, no advertising
-identifier, no crash reporting switched on by default, and no account to
-create. We do not know how many photos you have, how often you open the app,
-or whether you use it at all.
+identifier, no crash reporting, and no account to create. We do not know how
+many photos you have, how often you open the app, or whether you use it at
+all.
 
-Crash reporting is available in Settings and is **off** unless you turn it on.
-While it is off, no reporting code runs at all — "off" means nothing is
-collected, not collected-and-discarded. If you turn it on, crash traces are
-sent, scrubbed of file names and paths.
+There is no crash reporting of any kind, not even as an option you could turn
+on: the app contains no reporting or analytics library at all. The only
+things that ever leave your device are a backup or a share you asked for, and
+both are encrypted before they go.
 
 ### Failed unlock attempts
 
